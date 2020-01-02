@@ -1,18 +1,14 @@
-"orders" : 
-  [
-    {
-        "order_id": "XXXXXXX1",
-        "user_assigned" : "vescober",
-        "date" : ",",
-        "time" : "07:50",
-        "status" : "1",
-        "customer_name": "Victor Escober",
-        "customer_address" : "",
-        "customer_geo":{'lat':1,'long':2},
-        "order-subtotal":9999.999,
-        "order-tax":9999.99,
-        "order-discount":9999.999,
-        "total_order" : 9999.99,
-    }
-  ]
-  }
+{
+    "order_id": "XXXXXXX1",
+    "user_assigned" : "vescober",
+    "date" : ",",
+    "time" : "07:50",
+    "status" : "1",
+    "customer_name": "Victor Escober",
+    "customer_address" : "",
+    "customer_geo":{'lat':1,'long':2},
+    "order-subtotal":9999.999,
+    "order-tax":9999.99,
+    "order-discount":9999.999,
+    "total_order" : 9999.99,
+}
